@@ -633,17 +633,16 @@ a:hover {
 
 .productheading {
   color: #000000;
-  font-size: 15px;
-  margin-left: 2%;
-  text-align: center;
-  display: block;
-  height: 30px;
-  /* width: 100%; */
-
-  font-weight: 500;
-  margin-top: 4%;
-  overflow: hidden;
-}
+    font-size: 15px;
+    margin-left: 3%;
+    text-align: center;
+    display: block;
+    height: 30px;
+    /* width: 100%; */
+    font-weight: 500;
+    margin-top: 11%;
+    overflow: hidden;
+    }
 
 .producttype {
   text-align: center;
@@ -894,10 +893,12 @@ a:hover {
 }
 
 .applyistore>img {
+
   height: 84px;
   margin-top: 5%;
-  height: 67px;
+  height: 60px;
   margin-left: 0%;
+
 }
 
 .copy {

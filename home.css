@@ -45,7 +45,7 @@ body {
 header {
   height: 65px;
   width: 100%;
-  background-color: black;
+  /*background-color: black;*/
   overflow: hidden;
 
 
@@ -54,7 +54,7 @@ header {
 .header a {
   float: left;
   font-size: 16px;
-  color: white;
+   /*color: white;*/
   text-align: center;
 
   text-decoration: none;
@@ -63,7 +63,7 @@ header {
 
 
 #logo {
-  color: white;
+  /*color: white;*/
   font-size: 40px;
   display: inline-block;
   float: left;
@@ -90,7 +90,7 @@ header {
 
 .dropdownlist {
   overflow: hidden;
-  color: white;
+  color: rgb(223, 93, 32) ;
   height: 67px;
   margin-top: 2%;
   float: left;
@@ -101,7 +101,7 @@ header {
 
 .dropdownlist>a {
   text-decoration: none;
-  color: white;
+  color: rgb(223, 93, 32) ;
   float: left;
   margin-top: -5%;
   margin-left: 0%;
@@ -157,7 +157,7 @@ img {
 
 #DealsDeals {
   overflow: hidden;
-  color: white;
+  color:  rgb(255, 175, 138) ;
   height: 67px;
   margin-top: 2%;
   float: left;
@@ -167,7 +167,7 @@ img {
 
 #DealsDeals>a {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 175, 138) ;
   float: left;
   margin-top: -5%;
   margin-left: 0%;
@@ -178,7 +178,7 @@ img {
 
 #offer {
   overflow: hidden;
-  color: white;
+  color: rgb(255, 175, 138) ;
   height: 67px;
   margin-top: 2%;
   float: left;
@@ -188,7 +188,7 @@ img {
 
 #offer>a {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 175, 138) ;
   float: left;
   margin-top: -5%;
   margin-left: 0%;
@@ -198,7 +198,7 @@ img {
 
 #more {
   overflow: hidden;
-  color: white;
+  color: rgb(255, 175, 138) ;
   height: 67px;
   margin-top: 2%;
   float: left;
@@ -208,7 +208,7 @@ img {
 
 #more>a {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 175, 138) ;
   float: left;
   margin-top: -5%;
   margin-left: 0%;
@@ -259,7 +259,7 @@ img {
 
 .headingofbestsellers {
 
-  background-color: #000000;
+  /*background-color: black;*/
   /* position: absolute; */
   width: 100%;
   height: 500px;
@@ -267,7 +267,7 @@ img {
 }
 
 .headingofDailyDeals {
-  background-color: #000000;
+   /*background-color: black;*/
   /* position: absolute; */
   width: 100%;
   height: 588px;
@@ -276,14 +276,14 @@ img {
 .spantagkomargin {
   margin-top: 0%;
   margin-left: 53%;
-  color: #ffffff;
+   /*color: white;*/
   /* background-color: black; */
   height: 73px;
   /* border: 2px solid yellow;*/
 }
 
 .spantagkomargin>span {
-  color: #ffffff;
+   /*color: white;*/
   font-size: 30px;
   text-align: center;
   font-weight: bolder;
@@ -295,7 +295,7 @@ img {
 
 .viewall>span {
 
-  color: #ffffff;
+   /*color: white;*/
   font-size: 17px;
   text-align: center;
   font-weight: bolder;
@@ -309,7 +309,7 @@ img {
 }
 
 .BiggestLaunches {
-  color: #ffffff;
+  /*color: white;*/
   font-size: 32px;
   text-align: center;
   font-weight: bolder;
@@ -568,7 +568,7 @@ a:hover {
 
 
 #videodiv {
-  background-color: #000000;
+    /* background-color: #000000;*/
   width: 100%;
   height: 700px;
   display: inline-block;
@@ -624,7 +624,7 @@ a:hover {
 
 .videodescrtaion {
   background-color: white;
-  height: 150px;
+  /*height: 150px;*/
   /* border: 2px solid rebeccapurple; */
 
   border-radius: 4%;
@@ -686,21 +686,21 @@ a:hover {
 
 .footerdiv {
   height: 700px;
-  background-color: #000000;
+  /*background-color: black;*/
 
 
 }
 
 .footertagline {
   height: 53px;
-  background-color: #1d1b1b;
+  /*background-color: black;*/
 
 
 }
 
 .tagline {
   text-align: center;
-  color: white;
+    /*color: white;*/
   font-size: 13px;
   width: 72%;
   margin-left: 12%;
@@ -725,7 +725,7 @@ a:hover {
 
   display: inline-block;
   float: left;
-  background-color: #000000;
+  /*background-color: black;*/
 }
 
 
@@ -737,7 +737,7 @@ a:hover {
   /* font-weight: lighter; */
   width: 100%;
   margin-top: 12%;
-  color: white;
+  /*color: white;*/
 
 }
 
@@ -747,7 +747,7 @@ a:hover {
 }
 
 .mailmessage {
-  color: white;
+   /*color: white;*/
   font-size: 14px;
   text-align: left;
   float: left;
@@ -784,12 +784,12 @@ a:hover {
   width: 18%;
   height: 506px;
   display: inline-block;
-  background-color: #000000;
+   /*background-color: black;*/
   float: left;
 }
 
 .shop {
-  color: white;
+  /*color: white;*/
   font-size: 18px;
   text-align: left;
   font-weight: 500;
@@ -798,7 +798,7 @@ a:hover {
 }
 
 .shoplinks {
-  color: white;
+  color: rgb(245, 29, 0) ;
   font-size: 13px;
   text-align: left;
   line-height: 92%;
@@ -811,7 +811,7 @@ a:hover {
   width: 18%;
   height: 506px;
   display: inline-block;
-  background-color: #000000;
+  /*background-color: black;*/
   float: left;
 }
 
@@ -819,7 +819,7 @@ a:hover {
   width: 18%;
   height: 506px;
   display: inline-block;
-  background-color: #000000;
+   /*background-color: black;*/
   float: left;
 }
 
@@ -831,7 +831,7 @@ a:hover {
   width: 100%;
   /* float: left; */
   display: inline-block;
-  background-color: black;
+  /*background-color: black;*/
   margin-top: -1%;
 }
 
@@ -840,7 +840,7 @@ a:hover {
   float: left;
   width: 40%;
   height: 82px;
-  background-color: #000000;
+  /*background-color: black;*/
 }
 
 .footerpayment>img {
@@ -857,8 +857,8 @@ a:hover {
   float: left;
   width: 19%;
   height: 60px;
-  background-color: #000000;
-  color: #f8f9fa;
+  /*background-color: black;*/
+  /*color: white;*/
   text-align: center;
   margin-top: 2%;
 
@@ -870,7 +870,7 @@ a:hover {
 
   display: inline-block;
   float: left;
-  background-color: #000000;
+  /*background-color: black;*/
   height: 81px
 }
 
@@ -886,8 +886,7 @@ a:hover {
   display: inline-block;
   float: left;
   width: 14%;
-
-  background-color: #000000;
+  /*background-color: black;*/
 
 
 }
@@ -903,9 +902,9 @@ a:hover {
 
 .copy {
   height: 49px;
-  background-color: #1d1b1b;
+  /*background-color: black;*/
   font-size: 15px;
-  color: #f8f9fa;
+   /*color: white;*/
   text-align: center;
   margin-top: 0%;
   /* float: left;*/

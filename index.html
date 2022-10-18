@@ -70,6 +70,7 @@
 
 
 <script src="home.js"></script>
+ 
 
 </head>
 
@@ -156,11 +157,24 @@
       <div class="search">
         <input type="text" name="" id="" placeholder="Search...">
       </div>
+      
+  <!--light dark part starts here-->
       <div class="modes"> 
          <button onClick="changeMode()"><i class="fa fa-lightbulb-o" style="font-size: 35px;
     color: red;"></i></button>
       </div>
+
+       <!--geo location  part starts here-->
+       <div id="weather_div">
+        <span id="weather_icon"><i class="fa-solid fa-cloud"></i></span>
+         
+        <p id="weather"></p>
+
+         
+    </div>
+    <!-- the p#weather need to exist before the script is loaded, that's why script for weather is loaded here -->
      
+
     </div>
   </header>
 
@@ -755,6 +769,7 @@
         <script>
           window.onload = loadCoupon()
       </script>
+      <script src="GEOLOCATION.js"></script>
 
 </body>
 
